@@ -14,11 +14,11 @@ h3 {border-style: dotted dashed solid double;
 	border-width: 15px;color: black; }
 h3 {
 	background-color: salmon;
-	padding-top: 25px;
-	padding-right: 30px;
-	padding-bottom: 25px;
-	padding-left: 30px; font-size: 20px
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	padding-left: 15px; font-size: 15px
 }
 p{
-	font-size: 20px;
+	font-size: 15px;
 }
