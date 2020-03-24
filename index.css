@@ -10,9 +10,9 @@ img{
 }
 
 body {px;color: white; border-style: solid; }
-h5 {border-style: dotted dashed solid double;
+h3 {border-style: dotted dashed solid double;
 	border-width: 15px;color: black; }
-h5 {
+h3 {
 	background-color: salmon;
 	padding-top: 25px;
 	padding-right: 30px;
