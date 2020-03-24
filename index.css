@@ -12,6 +12,13 @@ img{
 body {px;color: white; border-style: solid; }
 h3 {border-style: dotted dashed solid double;
 	border-radius: 20px;color: black; }
+h3 {
+	background-color: salmon;
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	padding-left: 15px; font-size: 15px
+}
 
 p{
 	font-size: 15px;
